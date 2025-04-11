@@ -1,11 +1,11 @@
 # ADHD-MultiModal
 # Predicting Cognitive Functioning in ADHD Using Multimodal Neuroimaging
 
-This repository contains the code for the manuscript “Predicting Cognitive Functioning in ADHD Using Multimodal Neuroimaging Across Populations and Clinics” submitted to *JAMA Psychiatry*. The study develops multimodal neuroimaging models to predict cognitive functioning in children and tests their generalizability across ADHD and non-ADHD groups using the Adolescent Brain Cognitive Development (ABCD) study and an external clinical cohort (Lytle et al.). 
+This repository contains the code for the manuscript “Predicting Cognitive Functioning in ADHD Using Multimodal Neuroimaging Across Populations and Clinics”. The study develops multimodal neuroimaging models to predict cognitive functioning in children and tests their generalizability across ADHD and non-ADHD groups using the Adolescent Brain Cognitive Development (ABCD) study and an external clinical cohort (Lytle et al.). 
 
 ## Overview
 
-We trained stacked machine learning models integrating structural and functional neuroimaging features (fMRI task contrasts, functional connectivity, sMRI) to predict cognitive scores. The models were validated internally (ABCD) and externally (Lytle et al.), achieving robust performance (r=.57 internally, r=.44 externally). This code supports ADHD identification, feature preprocessing, model training, and result analysis.
+We trained stacked machine learning models integrating structural and functional neuroimaging features (fMRI task contrasts and connectivity, structural MRI, DTI) to predict cognitive scores. The models were validated internally (ABCD) and externally (Lytle et al.). This code supports ADHD identification, feature preprocessing, model training, and result analysis.
 
 ## Repository Structure
 
@@ -20,13 +20,12 @@ The repository is organized into four folders, each corresponding to a stage of 
 
 To run the scripts, you’ll need:
 
-- **Python**: Version [e.g., 3.8+] (or specify your language, e.g., R, MATLAB).
+- **Python**: Version [e.g., 3.8+].
 - **Dependencies**: 
   - [List key libraries, e.g., `numpy`, `pandas`, `scikit-learn`, `nilearn`, `matplotlib`]
-  - Install via: `pip install -r requirements.txt` (if you include a requirements file).
 - **Data**:
-  - ABCD dataset (release 5.1): Access via NIMH Data Archive (https://nda.nih.gov/abcd, DOIs: 10.15154/z563-zd24, 10.15154/1523041).
-  - Lytle et al.’s dataset: Publicly available at [insert URL or citation if known].
+  - ABCD dataset: Access via NIMH Data Archive (https://abcdstudy.org/scientists/data-sharing/).
+  - Lytle et al.’s dataset: Publicly available at https://openneuro.org/datasets/ds002424/versions/1.2.0.
   - Note: Data access requires approval from respective repositories.
 
 ## Installation
