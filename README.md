@@ -20,7 +20,7 @@ The repository is organized into four folders, each corresponding to a stage of 
 
 To run the scripts, you’ll need:
 
-- **Python**: Version [e.g., 3.8+].
+- **Python**: Version [3.11.11].
 - **Dependencies**: 
   - [`numpy`, `pandas`, `scikit-learn`, `nilearn`, `nibabel`, `matplotlib`, ...]
 - **Data**:
