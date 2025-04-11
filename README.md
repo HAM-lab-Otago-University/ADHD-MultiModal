@@ -27,6 +27,15 @@ To run the scripts, you’ll need:
   - ABCD dataset: Access via NIMH Data Archive (https://abcdstudy.org/scientists/data-sharing/).
   - Lytle et al.’s dataset: Publicly available at https://openneuro.org/datasets/ds002424/versions/1.2.0.
   - Note: Data access requires approval from respective repositories.
+## Contact
+
+For questions, contact:
+Farzane Lal Khakpoor, Department of Psychology, University of Otago
+Email: farzanelk@gmail.com
+
+## Acknowledgments
+
+Thanks to Michael Demidenko, PhD (Stanford University), for providing fMRI task event scripts for ABCD, and all ABCD and Lytle et al. investigators for data access.
 
 ## Installation
 
