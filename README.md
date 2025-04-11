@@ -22,7 +22,7 @@ To run the scripts, you’ll need:
 
 - **Python**: Version [e.g., 3.8+].
 - **Dependencies**: 
-  - [`numpy`, `pandas`, `scikit-learn`, `nilearn`, 'nibabel', `matplotlib`]
+  - [`numpy`, `pandas`, `scikit-learn`, `nilearn`, `nibabel`, `matplotlib`, ...]
 - **Data**:
   - ABCD dataset: Access via NIMH Data Archive (https://abcdstudy.org/scientists/data-sharing/).
   - Lytle et al.’s dataset: Publicly available at https://openneuro.org/datasets/ds002424/versions/1.2.0.
