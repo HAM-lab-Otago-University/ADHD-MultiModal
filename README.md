@@ -1,7 +1,7 @@
 # ADHD-MultiModal
 # Predicting Cognitive Functioning in ADHD Using Multimodal Neuroimaging
 
-This repository contains the code for the manuscript “Predicting Cognitive Functioning in ADHD Using Multimodal Neuroimaging Across Populations and Clinics”. The study develops multimodal neuroimaging models to predict cognitive functioning in children and tests their generalizability across ADHD and non-ADHD groups using the Adolescent Brain Cognitive Development (ABCD) study and an external clinical cohort (Lytle et al.). 
+This repository contains the code for the manuscript “Predicting Cognitive Functioning in ADHD Using population-based MRI Across Large & Small Samples”. The study develops multimodal neuroimaging models to predict cognitive functioning in children and tests their generalizability across ADHD and non-ADHD groups using the Adolescent Brain Cognitive Development (ABCD) study and an external clinical cohort (Lytle et al.). 
 
 ## Overview
 
