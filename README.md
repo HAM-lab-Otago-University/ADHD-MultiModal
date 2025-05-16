@@ -41,4 +41,4 @@ Thanks to Michael Demidenko, PhD (Stanford University), for providing fMRI task 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[HAM-lab-Otago-University]/[ADHD-MultiModal].git
+   git clone https://github.com/HAM-lab-Otago-University/ADHD-MultiModal.git
